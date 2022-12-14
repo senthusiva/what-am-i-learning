@@ -1,3 +1,5 @@
 [submodule "graphql_with_react"]
 	path = graphql_with_react
 	url = https://github.com/senthusiva/graphql_with_react.git
+[submodule "graphql_with_react/"]
+	branch = main
